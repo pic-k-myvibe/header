@@ -27,7 +27,7 @@ SSH/HTTPS
 ```
 git remote add [origin] [SSH/HTTPS]
 ```
-⋅⋅* El comando va sin [], ejemplo:
+⋅⋅* El comando va sin [ ], ejemplo:
 
 ```
 git remote add origin https://github.com/la-ruta-de-tu-proyecto.git
