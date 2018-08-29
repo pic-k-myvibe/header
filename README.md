@@ -7,7 +7,7 @@ Pueden descargar el repositorio completo o simplemente agregar el header y foote
 ### Header
 
 #### HTML
-```
+```html
 <header>
   <nav>
     <div class="menu">
@@ -35,7 +35,7 @@ Pueden descargar el repositorio completo o simplemente agregar el header y foote
 ```
 
 #### CSS
-```
+```css
 /*--- header ---*/
 .menu {
   width: 100%;
@@ -99,7 +99,7 @@ Pueden descargar el repositorio completo o simplemente agregar el header y foote
 ### Footer
 
 #### HTML
-```
+```html
 <footer>
   <div class="box">
     <p>Pickmyby© 2018</p>
@@ -114,7 +114,7 @@ Pueden descargar el repositorio completo o simplemente agregar el header y foote
 ```
 
 #### CSS
-```
+```cs
 /*--- footer ---*/
 footer {
   background-color: #3ca593;
@@ -131,4 +131,4 @@ footer .box img {
 }
 ```
 
-Nota: Las imagenes las encuentran en la carpeta de img.
+Nota: Las imagenes las encuentran en la carpeta de [img.](https://github.com/pic-k-myvibe/header/tree/master/img)
