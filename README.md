@@ -114,7 +114,7 @@ Pueden descargar el repositorio completo o simplemente agregar el header y foote
 ```
 
 #### CSS
-```cs
+```css
 /*--- footer ---*/
 footer {
   background-color: #3ca593;
